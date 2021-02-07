@@ -1,4 +1,4 @@
-package Lesson1;
+package HomeWork;
 
 public class Task1 {
     /* Минимум трех чисел
