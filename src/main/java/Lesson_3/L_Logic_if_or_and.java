@@ -6,6 +6,8 @@ public class L_Logic_if_or_and {
         int money = 100;
 
         //if (age < 18 && (age > 10 || money < 50))
+        // && fails on false
+        // || fails on true
 
         if (age < 18 && money > 50) {
             System.out.println("Go to school and buy an ice-cream");
